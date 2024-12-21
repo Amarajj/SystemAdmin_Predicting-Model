@@ -23,12 +23,12 @@ Completed: Binary outcome (Yes/No) indicating task completion
 **Objective:**
 
 Analyze the relationship between experience, training, and task performance.
-Develop a predictive model to classify administrators based on their likelihood to complete tasks.
+Develop a predictive model to classify administrators based on their task completion likelihood.
 
 
 **Visual Analysis:**
 
-Created scatter plots of Experience vs. Training, using color to differentiate completion outcomes. Visual decision boundaries aid in identifying separable classes.
+Created scatter plots of Experience vs. Training, using color to differentiate completion outcomes—visual decision boundaries aid in identifying separable classes.
 
 
 **Model Implementation:**
